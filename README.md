@@ -36,7 +36,7 @@ df_df1_concat.pop('Age')
 df_df1_concat_fill_son = pd.concat([df_df1_concat, df_df1_concat_fill], axis=1)
 ```
 
-# 2-) Gösterimler
+# 2-) Gösterimler 🥈
 
 
 Belirlediğimiz yaş aralıkalarının hangi oranda hayatta kaldığı gösterimi
@@ -228,7 +228,7 @@ plt.show()
 ---
 
 
-# 3-) Seaborn kütüphanesi denemeler
+# 3-) Seaborn kütüphanesi denemeler 🥉
 
 Yaş yoğunluklarının dağılımı gösterimi
 ---
